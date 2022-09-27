@@ -11,9 +11,9 @@ Then input the assembly code files:
 ```
 >    assembler file1.as file2.as, file3.as
 ```
-The assembler will create 3 output files:
+The assembler will create 3 output files for each of the input files:
 - Object file
 - Entries file
 - Externals file
 
-check out tests folder for examples
+Check [test files](https://github.com/eladavital117/Assembler-Project/tree/master/Assembler/test%20files) folder for examples
